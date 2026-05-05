@@ -8,4 +8,4 @@ The app is designed to allow the user to manage their ingredient list, track the
 
 Link to the final version: https://www.figma.com/file/Kq427G8fyBkhVacc8NRgP6/IUM?type=design&node-id=0%3A1&mode=design&t=PNJdVFdR3jVgGhBr-1
 
-The prototype was presented as the final work of a group of 6 people: Valerio Mesiti, Alessio Taruffi, Gabriele Moretti, Antonio Sacco, Alessandro Pandolfi, and Giacomo Porfiri.
+The prototype was presented as the final work of a group (ArmonIUM) of 6 people: Valerio Mesiti, Alessio Taruffi, Gabriele Moretti, Antonio Sacco, Alessandro Pandolfi, and Giacomo Porfiri.
